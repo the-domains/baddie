@@ -1,9 +1,7 @@
-favicon: null
 name: baddie
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.7455
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.917536782566458
-  brandStrength: 0.0936447971034795
-  rhythmicContrast: 0.01447073486633599
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  brandStrength: 0.0936447971034795
   lightness: 0.205877477535978
-typography_spectrum: 0.2291260969359428
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.917536782566458
+  rhythmicContrast: 0.01447073486633599
+purpose: []
