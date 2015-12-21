@@ -17,8 +17,8 @@ keywords:
   - goo
   - danny
 description: 'Join Danny MacAskill on an insane journey across the rooftops of Gran Canaria. Mixing vertigo-inducing lines and killer POV-footage, "Cascadia" delivers some incredible riding. In collaboration with Mount Creative http://www.mountcreative.com/ and Vision Ramps http://visionramps.co.uk/ A Special Thanks to the wonderful people of Gran Canaria who opened their homes to us and helped make this project a reality.'
-datePublished: '2015-12-21T09:50:22.118Z'
-dateModified: '2015-12-21T09:49:57.737Z'
+datePublished: '2015-12-21T10:04:13.763Z'
+dateModified: '2015-12-21T10:02:08.192Z'
 author:
   - name: GoPro
     url: 'https://www.youtube.com/user/GoProCamera'
@@ -48,6 +48,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-Incredible
+Crackpot
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FGL0rbxB9Lqg%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGL0rbxB9Lqg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGL0rbxB9Lqg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
