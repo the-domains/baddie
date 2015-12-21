@@ -1,7 +1,7 @@
 name: baddie
 favicon: null
 layout_spectrum: 0.24865
-typography_spectrum: 0.7455
+typography_spectrum: 0.7467
 collections:
   - index:
       path: /
