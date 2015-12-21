@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[baddie]]></title>
         <description><![CDATA[baddie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/baddie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 22:59:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 09:50:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/baddie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Danny MacAskill - Cascadia]]></title>
+            <description><![CDATA[<article><h1>Danny MacAskill - Cascadia</h1><p>Crackers!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea7038715e5f0b56ae7ff929ba06a51db8920eda.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=GL0rbxB9Lqg</link>
+            <guid isPermaLink="false">4b4fd4d0-1a38-467a-8c4a-674576579260</guid>
+            <pubDate>Mon, 21 Dec 2015 09:50:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/238eb36d-f51a-48ca-bd48-0eebca12e0b1.JPG">]]></description>
-            <link>undefined9e6ed65e-abe1-472a-a826-a101474dafc1/index.html</link>
+            <link>https://thegrid.ai/baddie/9e6ed65e-abe1-472a-a826-a101474dafc1/index.html</link>
             <guid isPermaLink="false">9e6ed65e-abe1-472a-a826-a101474dafc1</guid>
             <pubDate>Wed, 16 Dec 2015 22:59:38 GMT</pubDate>
         </item>
