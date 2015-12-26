@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[baddie]]></title>
         <description><![CDATA[baddie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/baddie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 16:36:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 16:39:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/baddie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Danny MacAskill - Cascadia]]></title>
+            <description><![CDATA[<article><h1>Danny MacAskill - Cascadia</h1><p>Join Danny MacAskill on an insane journey across the rooftops of Gran Canaria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea7038715e5f0b56ae7ff929ba06a51db8920eda.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=GL0rbxB9Lqg</link>
+            <guid isPermaLink="false">da949f46-002d-4bdd-8549-851806bebcd7</guid>
+            <pubDate>Sat, 26 Dec 2015 16:39:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61b13af8-dbd3-4dc1-a113-37dcf80d97ed.JPG">]]></description>
-            <link>undefinedf318481f-a97e-4ef0-9d15-6f1028f9a0d8/index.html</link>
+            <link>https://thegrid.ai/baddie/f318481f-a97e-4ef0-9d15-6f1028f9a0d8/index.html</link>
             <guid isPermaLink="false">f318481f-a97e-4ef0-9d15-6f1028f9a0d8</guid>
             <pubDate>Sat, 26 Dec 2015 16:36:02 GMT</pubDate>
         </item>
